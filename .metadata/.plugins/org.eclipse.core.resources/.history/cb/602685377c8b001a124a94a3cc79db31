@@ -1,0 +1,5 @@
+package com.pk.PhotoAppApiUsers.ui.Validator;
+
+public class LonginValidator {
+
+}
